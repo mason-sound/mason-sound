@@ -1,0 +1,52 @@
+{
+	"block.chest.open": {
+		"replace": true,
+		"sounds": [
+			"random/chestopen",
+			"random/chestopen2"
+		]
+	},
+	"block.chest.close": {
+		"replace": true,
+		"sounds": [
+			"random/chestclose",
+			"random/chestclose2"
+		]
+	},
+	"block.shulker_box.open": {
+		"replace": true,
+		"sounds": [
+			"random/chestopen",
+			"random/chestopen2"
+		]
+	},
+	"block.shulker_box.close": {
+		"replace": true,
+		"sounds": [
+			"random/chestclose",
+			"random/chestclose2"
+		]
+	},
+	"entity.cat.ambient": {
+		"replace": true,
+		"sounds": [
+			"entity/cat/ambient",
+			"entity/cat/ambient2",
+			"entity/cat/ambient3"
+		]
+	},
+	"entity.shulker.open": {
+		"replace": true,
+		"sounds": [
+			"random/chestopen",
+			"random/chestopen2"
+		]
+	},
+	"entity.shulker.close": {
+		"replace": true,
+		"sounds": [
+			"random/chestclose",
+			"random/chestclose2"
+		]
+	}
+}
